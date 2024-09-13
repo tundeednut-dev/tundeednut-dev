@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design and development 
 - 🌱 I’m currently learning front end development 
 - 💞️ I’m looking to collaborate on web design and development 
-- 📫 How to reach me : Whatsapp 08160371814
+- 📫 How to reach me : Whatsapp 07032038781
 - 😄 Pronouns: He
 - ⚡ Fun fact: Guess what is up.The sky
 
