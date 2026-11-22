@@ -36,7 +36,7 @@ I work primarily with React.js on the frontend and Node.js, Express.js, and Mong
 
 ### 💻 Featured Projects
 
-**1. DHUSC OF JEWELS – Full-Stack E-commerce Platform**
+**1. DHUSEOFJEWELS – Full-Stack E-commerce Platform**
 
 A client project involving the development of a complete e-commerce platform.
 
